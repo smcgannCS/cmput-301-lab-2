@@ -1,5 +1,6 @@
 package com.example.listycity
 
+// some of these imports were suggested by gemini following a prompt regarding "squiggly lines under some keywords"
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
